@@ -1,0 +1,8 @@
+numpy
+pandas
+Lightgbm
+sklearn
+nltk
+
+torch
+transformers
