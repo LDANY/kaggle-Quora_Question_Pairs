@@ -1,4 +1,7 @@
 # kaggle-Quora_Question_Pairs
+## Data
+We can download the test.csv and train data.csv at https://www.kaggle.com/competitions/quora-question-pairs/data
+
 
 ## Overview
 The task is to identify whether two questions are semantically identical.
